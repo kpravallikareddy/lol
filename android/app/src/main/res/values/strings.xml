@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lol</string>
+    <string name="facebook_app_id">415872473297880</string>
+        <string name="fb_login_protocol_scheme">fb415872473297880</string>
+        <string name="server_client_id">714007657988-a8b4n2gpnmci9bp94gr51vlo2ess4sua.apps.googleusercontent.com</string>
+</resources>
